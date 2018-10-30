@@ -13,3 +13,7 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
+{ 
+  "token"  : "NTA2NTQ1MjM0ODc3MDg3NzY1.Drjs9A.OoHpKSQwrEYvLK-0NORNoiD2bG0",
+  "prefix" : ""
+}
